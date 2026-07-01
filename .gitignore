@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.*
+*.local
+*.log
+.DS_Store
+Thumbs.db
+.agents/
+.codex/
+lark-auth-qrcode.png
+cinematic-space-travel.html
+cropped-watermark-check.jpg
+image-contact-sheet.jpg
+src/assets/life/_originals_before_crop/
