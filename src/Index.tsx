@@ -232,7 +232,7 @@ function AutoCarousel({ ariaLabel, children, className = "" }: AutoCarouselProps
   useEffect(() => {
     let frame = 0;
     let lastTime = performance.now();
-    const speed = 12;
+    const speed = 22;
 
     const tick = (now: number) => {
       const scroller = scrollerRef.current;
