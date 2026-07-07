@@ -105,7 +105,7 @@ const copy = {
       specialBody: "春水碧于天，画船听雨眠。有些章节，安静放在心上。",
       competitionKicker: "竞赛经历",
       competitionTitle: "NL2SQL 智能助手",
-      competitionBody: "长风破浪会有时。奖杯、讲台和四页 PPT 一起滚动，记录一次把想法讲清楚的现场。",
+      competitionBody: "纸上得来终觉浅，绝知此事要躬行。奖杯与讲台之外，更重要的是把问题一步步做成答案。",
       competitionSlides: "竞赛掠影",
     },
     footer: {
